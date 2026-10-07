@@ -1,4 +1,4 @@
-# Henry's Hand TrueType Font
+# Henry's hand TTF font
 
 ![](/preview.png?raw=true "Henry's Hand TTF Preview")
 
