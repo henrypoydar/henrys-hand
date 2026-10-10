@@ -14,9 +14,7 @@
 
 The original is SemiBold (600). Light (300) and Bold (700) are generated from its outlines, and Regular (400) falls between Light and SemiBold.
 
-## Changelog
-
-- 3.000: variable weight axis (300–700) and WOFF2.
+ 3.000: variable weight axis (300–700) and WOFF2.
 
 ## Use on the web
 
