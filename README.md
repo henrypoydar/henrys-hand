@@ -4,9 +4,9 @@
 
 ## Files
 
-- `Henry's Hand.ttf`: the original, a single SemiBold (600) weight. Install this on your computer.
-- `henrys-hand-variable.ttf`: a variable font with a weight axis from 300 to 700. Install this to get Light, Regular, SemiBold, and Bold.
-- `henrys-hand.woff2`: the variable font for the web.
+- `HenrysHand-SemiBold.ttf`: the original, a single SemiBold (600) weight. Install this on your computer.
+- `HenrysHand-Variable.ttf`: a variable font with a weight axis from 300 to 700. Install this to get Light, Regular, SemiBold, and Bold.
+- `HenrysHand-Variable.woff2`: the variable font for the web.
 
 ## Weights
 
@@ -23,7 +23,7 @@ The original is SemiBold (600). Light (300) and Bold (700) are generated from it
 ```css
 @font-face {
   font-family: "Henry's Hand";
-  src: url("henrys-hand.woff2") format("woff2");
+  src: url("HenrysHand-Variable.woff2") format("woff2");
   font-weight: 300 700;
   font-display: swap;
 }
